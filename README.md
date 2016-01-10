@@ -1,4 +1,4 @@
-# snippets
+# Front-end snippets
 Collection of reusable front-end snippets
 
 ## Basic snippets (no javascript)
