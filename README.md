@@ -7,4 +7,4 @@ Collection of reusable front-end snippets
 - [Horizontally centered div of unkonwn width] (http://jsfiddle.net/smohadjer/9fwf1ma0/6/)
 
 ## Complex snippets (use javascript)
-- Add example here
+
