@@ -5,7 +5,7 @@ Collection of reusable front-end snippets
 - [Using box-shadow inset instead of border](https://codepen.io/smohadjer/pen/JrZyEK)
 - [Simple CSS grid](https://github.com/smohadjer/grid)
 - [Image with a label](http://jsfiddle.net/smohadjer/m6jffqzc/4/)
-- [Horizontally centered div of unkonwn width](http://jsfiddle.net/smohadjer/9fwf1ma0/6/)
+- [Horizontally centered div of unkonwn width](https://codepen.io/smohadjer/pen/MOrXze)
 
 ## Complex snippets (use javascript)
 - [Image Markers](http://codepen.io/smohadjer/pen/wGZmrM)
